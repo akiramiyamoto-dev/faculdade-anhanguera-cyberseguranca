@@ -1,0 +1,12 @@
+# Dumps e backups
+*.sql
+*.bak
+*.db
+
+# Logs e temporários
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
